@@ -1,5 +1,5 @@
 # LeetCode-JS
 
-Solutions to problems on LeetCode.
+Solutions in JavaScript to problems on LeetCode.
 
 Questions not included.
