@@ -8,4 +8,4 @@ var twoSum = function(nums, target) {
     }
   };
   
-//   twoSum([2, 7, 11, 15], 22);
+twoSum([2, 7, 11, 15], 22);
